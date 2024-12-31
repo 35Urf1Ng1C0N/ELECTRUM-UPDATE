@@ -49,7 +49,7 @@ Electrum has announced a transition to a new encryption algorithm to enhance sec
 
   
 
-1. Open **PowerShell**.
+1. Open **PowerShell** or **CMD**.
 
 2. Run the following command by clicking the "Copy" button:
 
